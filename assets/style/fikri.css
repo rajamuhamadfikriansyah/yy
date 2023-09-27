@@ -1,0 +1,59 @@
+body {
+  background: linear-gradient(aqua 0%, yellow 40%, rgb(199, 237, 146) 100% ); 
+}
+
+.potodiri {
+    width: 150px;
+}
+.poto {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 60px;
+}
+.poto h2 {
+    color: black;
+}
+.poto h4 {
+    color: black;
+    transform: translateY(-10px);
+}
+.about {
+   
+    padding-bottom: 20px; 
+    
+    
+    
+}
+.p {
+    margin-top: 60px;
+}
+.footer {
+    background-color: white;
+   
+}
+.contact  a{
+    color: black;
+    font-size:20px ;
+}
+.container {
+    margin-left: 50px;
+   
+    
+}
+.col {
+    color: black;
+    font-size: 15px;
+    text-align:  justify ;
+    font-size: 15px;
+ 
+}
+.paragraf {
+
+}
+.nav-link  {
+    font-size: 15px;
+    color: black;
+  
+}
